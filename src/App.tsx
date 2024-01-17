@@ -9,7 +9,6 @@ function App() {
       <Page />
       <Button />
     </Fragment>
-    
   )
 }
 export default App
